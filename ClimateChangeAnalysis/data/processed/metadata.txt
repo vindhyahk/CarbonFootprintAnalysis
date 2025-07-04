@@ -1,0 +1,6 @@
+processing_date: 2025-06-27 22:53:45
+source_dataset: OWID CO2 Data
+total_countries: 255
+year_range: 1950 - 2023
+latest_year: 2023
+columns: ['country', 'year', 'iso_code', 'population', 'gdp', 'co2', 'co2_per_capita', 'co2_per_gdp', 'coal_co2', 'oil_co2', 'gas_co2', 'cement_co2', 'flaring_co2', 'consumption_co2', 'trade_co2', 'cumulative_co2', 'share_global_co2', 'energy_per_capita', 'energy_per_gdp', 'methane', 'nitrous_oxide', 'total_ghg', 'total_fossil_co2', 'coal_share', 'oil_share', 'gas_share']

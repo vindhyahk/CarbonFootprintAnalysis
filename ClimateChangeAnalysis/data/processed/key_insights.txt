@@ -1,0 +1,19 @@
+KEY INSIGHTS FROM OWID CO2 DATA ANALYSIS
+==================================================
+
+1. GLOBAL EMISSIONS:
+   - Total CO2 emissions in 2023: 241,117 million tonnes
+   - Growth since 1950: 6.0x increase
+   - Data covers 255 countries
+
+2. TOP EMITTERS (2023):
+   - World: 37,792 million tonnes (100.0% of global)
+   - Non-OECD (GCP): 25,442 million tonnes (0.0% of global)
+   - Asia: 22,600 million tonnes (59.8% of global)
+
+3. FUEL MIX (2023):
+   - Coal: 66,113 million tonnes
+   - Oil: 53,524 million tonnes
+   - Gas: 37,930 million tonnes
+   - Cement: 6,883 million tonnes
+   - Flaring: 1,957 million tonnes
