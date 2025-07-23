@@ -183,12 +183,7 @@ streamlit run src/web_app/app.py
 
 ## 🤝 **Contributing**
 
-We welcome contributions! Please see our contributing guidelines for more information.
-
-## 📄 **License**
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+We welcome contributions!
 ---
 
 **🌱 Built with Streamlit | Ethical AI Approach | Granite Guidelines | Climate Hero Gamification**
