@@ -183,7 +183,7 @@ streamlit run src/web_app/app.py
 
 ## 🤝 **Contributing**
 
-We welcome contributions!
+- We welcome contributions!
 ---
 
 **🌱 Built with Streamlit | Ethical AI Approach | Granite Guidelines | Climate Hero Gamification**
