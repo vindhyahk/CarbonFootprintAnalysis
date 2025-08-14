@@ -1,6 +1,7 @@
 # 🌍 Climate Change Analysis Platform
 
 A comprehensive, interactive web application for analyzing global CO2 emissions data with AI-powered recommendations and gamified user engagement.
+For full video demo: https://youtu.be/fydy7-oM7Ik
 
 ## 🏆 **NEW: Climate Hero Gamification System**
 
